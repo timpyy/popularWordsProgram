@@ -1,0 +1,1 @@
+Sample_Input.txt Frequency 45
